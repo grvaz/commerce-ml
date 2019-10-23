@@ -1,5 +1,7 @@
 # commerce-ml
-CommerceML XML builder
+CommerceML builder
+
+https://youtu.be/6m4P7flSys0 (осторожно, юмор)
 
 Пример использования:
 
